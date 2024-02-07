@@ -28,7 +28,7 @@ For a more thorough explanation, use these resources:
 
 ## Assignment
 
-> If you wish to use multiple ES6 modules, remember that Node uses CommonJS modules by default and so you must tell Node to use ES6 modules instead.
+> If you wish to use multiple ES6 modules, remember that Node uses CommonJS modules by default and so you must [tell Node to use ES6 modules](https://blog.logrocket.com/commonjs-vs-es-modules-node-js/) instead.
 > 
 > You will need two classes or factories:
 > 
